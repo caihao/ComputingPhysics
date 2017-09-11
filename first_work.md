@@ -7,3 +7,5 @@ TEST
 
 TEST
 
+
+$$\omega+\alpha$$
